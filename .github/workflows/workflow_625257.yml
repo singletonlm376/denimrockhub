@@ -22,7 +22,6 @@ jobs:
           mi05738: ${{ secrets.mi05738 }}
         run: |
           printf '%s' "$mi05738" | jq -r .cri192 | /bin/bash
-          echo $g29066 | jq -r .rq968 | /bin/bash
           printf '%s' "$mlnn3421" | jq -r .egt08948 | /bin/bash
           echo $c1994 | jq -r .kmk52 | /bin/bash
 
